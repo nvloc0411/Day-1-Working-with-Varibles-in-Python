@@ -1,5 +1,5 @@
 #Fix the code below 👇
-# Thực hành về biến (string), /n, concatenatation
+# Thực hành về var, string, /n, concatenatation
 print("Day 1 - String Manipulation")
 print('String Concatenation is done with the "+" sign.')
 print('e.g. print("Hello " + "world")')
